@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class SubarrayXorCounter {
+public class XorCounter {
 
     // Function to count subarrays with XOR equal to k
     public static long subarrayXor(int[] arr, int k) {
